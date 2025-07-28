@@ -1,2 +1,2 @@
-# Portifolio-02
-Segundo Portifólio meu
+# Portifolio-Python-02
+
